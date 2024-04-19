@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\bin\Debug\net6.0\OperacaocomEscolha.exe
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\bin\Debug\net6.0\OperacaocomEscolha.deps.json
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\bin\Debug\net6.0\OperacaocomEscolha.runtimeconfig.json
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\bin\Debug\net6.0\OperacaocomEscolha.dll
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\bin\Debug\net6.0\OperacaocomEscolha.pdb
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.dll
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\refint\OperacaocomEscolha.dll
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.pdb
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\OperacaocomEscolha.genruntimeconfig.cache
+C:\Users\Anthony\source\repos\OperacaocomEscolha\OperacaocomEscolha\obj\Debug\net6.0\ref\OperacaocomEscolha.dll
